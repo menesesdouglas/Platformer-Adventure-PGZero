@@ -13,8 +13,6 @@ Instalação
 
 Como Executar
 
-Estrutura do Projeto
-
 Contribuição
 
 Licença
@@ -54,16 +52,6 @@ Este é um jogo de plataforma simples com mecânicas básicas, criado para demon
 # Como Executar
 - Execute o jogo com o comando:
   pgzrun game.py
-
-# Estrutura do Projeto
-Platformer-Adventure-PGZero/
-├── game.py            # Arquivo principal do jogo
-├── images/            # Sprites e imagens
-├── music/             # Trilha sonora
-├── sounds/            # Efeitos sonoros
-├── requirements.txt   # Dependências Python
-├── README.md          # Este arquivo
-└── .gitignore         # Arquivos ignorados pelo Git
 
 # Contribuição
 - Contribuições são bem-vindas! Para contribuir:
