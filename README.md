@@ -3,7 +3,7 @@ Platformer Adventure PGZero é um jogo de plataforma desenvolvido em Python util
 
 # Sumário
 
-**Sobre o Projeto
+Sobre o Projeto
 
 Tecnologias
 
@@ -19,7 +19,7 @@ Contribuição
 
 Licença
 
-Contato**
+Contato
 
 # Sobre o Projeto
 Este é um jogo de plataforma simples com mecânicas básicas, criado para demonstrar habilidades em Python e desenvolvimento de jogos com PGZero. O código é organizado, documentado e modular, facilitando manutenção e expansão.
@@ -39,9 +39,11 @@ Este é um jogo de plataforma simples com mecânicas básicas, criado para demon
 - Acesse a pasta do projeto:
   cd Platformer-Adventure-PGZero
 - Crie e ative o ambiente virtual:
+
   **Windows:**
     python -m venv venv
     venv\Scripts\activate
+
   **Linux/macOS:**
     python3 -m venv venv
     source venv/bin/activate
